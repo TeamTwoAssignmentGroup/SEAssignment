@@ -9,7 +9,7 @@ namespace SEAssignmentTest
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application. hello world
+        /// The main entry point for the application. hello world. Hello again.
         /// </summary>
         [STAThread]
         static void Main()
