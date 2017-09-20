@@ -10,6 +10,7 @@ namespace SEAssignmentTest
     {
         /// <summary>
         /// The main entry point for the application. hello world
+        /// Nigel was 'ere
         /// </summary>
         [STAThread]
         static void Main()
