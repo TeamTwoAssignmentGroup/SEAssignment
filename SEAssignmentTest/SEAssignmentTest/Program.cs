@@ -13,7 +13,7 @@ namespace SEAssignmentTest
         /// Nigel was 'ere
         /// 
         /// Demonstration of push pull etc
-        /// 
+        /// Success 1 completed
         /// </summary>
         [STAThread]
         static void Main()
